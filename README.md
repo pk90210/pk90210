@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Paul Kahara
 
 💻 Python Developer | Backend Enthusiast
-🎓 BSc Software Development — KCA University
 🚀 Building practical projects and growing into AI & backend systems
 
 ---
