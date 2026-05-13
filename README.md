@@ -27,11 +27,6 @@
 
 ## 🚧 In Progress
 
-### 🤖 AI Chatbot Project
-
-* Building a chatbot using Python and API integration
-* Goal: Understand real-world AI applications and backend logic
-
 ### 🌐 API-Based Project
 
 * Learning how to fetch and use data from external APIs
